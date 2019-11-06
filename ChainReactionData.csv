@@ -1,0 +1,6 @@
+player_name,games_played,wins,losses,max_move_win,max_move_loss,min_move_win,min_move_loss,avg_move_win,avg_move_loss,Skill_Level,Win_Prob
+anant,3,1,2,5,3,5,3,3,3,0,0.333
+new_play,1,0,1,0,3,0,3,0,3,0,0.000
+omkar,7,5,2,4,6,4,3,4,2,8,0.715
+shohaib,5,2,3,6,4,4,3,3,4,0,0.400
+subhra,3,1,2,4,5,4,2,1,4,4,0.333
