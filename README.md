@@ -15,14 +15,14 @@ All the Rules of Chain Reaction Apply as usual.
 - Overall GUI development.
 - ScreenPlay.
 
-### [@shohaibmk](http://github.com/shohaibmk).
+### [@AnantSutar](http://github.com/AnantSutar).
 - 'Static' Data Analysis.
 - Data Visualization using MATPLOTLIB. 
 
-### [@shohaibmk](http://github.com/shohaibmk)
+### [@GroudonTheGreat](http://github.com/GroudonTheGreat)
 - Dynamic Win Probability Algorithm.
 - Game Logic.
 
-### [@shohaibmk](http://github.com/shohaibmk)
+### [@omkar-7](http://github.com/omkar-7)
 - Backend Socket Programming.
 - Database Managment.
