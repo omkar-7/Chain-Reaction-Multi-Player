@@ -9,7 +9,7 @@ The Main 2 files to run are :
 
 All the Rules of Chain Reaction Apply as usual.
   
-#DEVELOPMENT TEAM 
+# DEVELOPMENT TEAM 
 
 ### [@shohaibmk](http://github.com/shohaibmk)
 - Overall GUI development.
