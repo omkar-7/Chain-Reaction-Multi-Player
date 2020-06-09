@@ -1,5 +1,5 @@
 # CHAIN REACTION MULTI PLAYER
-2nd Price Winning project at MINI PROJECT COMPETITION @PCCOE.
+2nd Prize Winning project at MINI PROJECT COMPETITION @PCCOE.
 
 We have it here.
 Now you can play the typical Chain Reaction Game over a set of PC's connected within a Local Area Network.
